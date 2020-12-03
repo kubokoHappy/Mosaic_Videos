@@ -13,5 +13,5 @@
   <li>動画にモザイク処理を施す場合、/PuttingMosaicOnVideos/movies フォルダに任意の動画を保存</li>
   <li>/PuttingMosaicOnVideos/programs　へカレントディレクトリを移動</li>
   <li>/PuttingMosaicOnVideos/programs/human_judge.py を実行</li>
-  <li>動画にモザイク処理・・・”ファイル名”を入力    Webカメラの映像にモザイク処理・・・"0"を入力</li>
+  <li>動画にモザイク処理・・・”ファイル名”を入力 / Webカメラの映像にモザイク処理・・・"0"を入力</li>
 </ol>
